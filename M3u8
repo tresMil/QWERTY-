@@ -1,0 +1,476 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,AE HD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,AMC-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ANIM_PLANET-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/anim_planet-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,AXN-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,AZCORAZON-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azcorazon-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,AZMUNDO-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azmundo-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,BOOMERANG
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,C1NEMAX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/c1nemax.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CABLENOTICIAS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cablenoticias-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CARACOL-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CARACOL_INT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol_int.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CARTOON NETWORK
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,COMEDY CENTRAL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cc-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CINECANAL-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinecanal-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CINELATINO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinelatino.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CINEMAN DINAMITA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinema_dinamita.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,City TV
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/citytv.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CNN Internacional
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cnnee.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,CONCERT-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/concert-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,D1SNEY-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,D1SNEY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,D1SNEYJR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyjr.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,D1SNEYXD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyxd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,DEPELICULA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/depelicula.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,DHE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,DHE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery Civilization
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_civil.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery h&h
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_hh-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery Kids
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery Science
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_science.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery THEATER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_theater-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery Turbo
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_turbo.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery World
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_world-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Discovery Channel
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/discovery_channel_hd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,DW News
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,E!
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/e_ent.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,EL Gourmet
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/elgourmet-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ESPN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ESPN 2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn2_kr-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ESPN 3
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ESPN+
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,Las Estrellas
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/estrellas_latam.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,EURO CHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X ACTION
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X CINEMA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_CINEMA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X CLASSICS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_COMEDY-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_COMEDY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_FAMILY-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_FAMILY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_MOVIES-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_MOVIES
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_SERIES-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_SERIES
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_SERIES_SUB-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series_sub-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0X_SERIES_SUB
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series_sub.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XLIFE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XLIFE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS2-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS2MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS2MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS3-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS3
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS3MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTS3MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTSMX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsportsmx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,F0XSPORTSMX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsportsmx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FX_MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx_mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FX_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx_mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FXM-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,FXM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLDEN-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLDEN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLDP-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/goldp-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLDP
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/goldp.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLFCHANNEL-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golfchannel-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,GOLFCHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golfchannel.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,H2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/h2.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB02-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB02
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0FAM-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0FAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0HD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0HD_SUB-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd_sub-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0HD_SUB
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd_sub.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0PLUS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0PLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0SIGN-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HB0SIGN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HISTORY-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/history-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HISTORY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/history.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HOLA-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hola-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,HOLA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hola.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,IDHD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,IDHD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,ISAT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/isat.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,M4XPRIME-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,M4XPRIME
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,M4XUP-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,M4XUP
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MTVHD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvhd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MTVHD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvhd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MTVHITS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvhits.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MTVL1VE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MTVL1VE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,MULTIPREMIER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/multipremier.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_KIDS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_KIDS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_KIDS_MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids_mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_KIDS_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids_mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_MX-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_mx-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NATGEO_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_mx.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NICK-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NICK
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NICK2-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,NICK2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,PARAM-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/param-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,PARAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/param.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,RAI
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/rai.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,RCN_TLN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/rcn_tln.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SONY-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SONY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SPACE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/space-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SPACE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/space.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,STDIO_UNIV
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/stdio_univ.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SUNDANCE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,SUNDANCE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TBS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TBS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TCM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tcm.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TELEMUN_INT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/telemun_int.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TLC-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tlc-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TLC
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tlc.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TNT-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TNT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TNT_SER-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TNT_SER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TOONCAST
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tooncast.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TRUTV_HD-SD
+http://3-1eat.pulsedmedia.com/public-llave1/list/public/trutv_hd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TRUTV_HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TV5
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tv5.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,TVE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tve.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,UNICABLE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/unicable.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,UNIVERS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,UNO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/uno.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,VEPLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/veplus.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,VH1
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,VH1CLASS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1class.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,VH1HD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,VH1HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,WARNER-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,WARNER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,WINSPORTS-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" ,WINSPORTS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports.php/index.m3u8
+
+#EXTINF:-1,UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1,UNI+ DEPORTES HD
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:-1,AZTECA 7 DEPORTES
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?sd=10&
+#EXTINF:-1,CLARO SPORT HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1,AZ CORAZON
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azcorazon-q3.php/index.m3u8
+#EXTINF:-1,AZ NUNDO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azmundo-q3.php/index.m3u8
+#EXTINF:-1,ESPN PLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/index.m3u8
+#EXTINF:-1,FOX HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/index.m3u8
+#EXTINF:-1,FOX SPORT2 AR 
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2.php/index.m3u8
+#EXTINF:-1,WIN SPORT 
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports-q3.php/index.m3u8
+#EXTINF:-1,TNT
+hls://http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,TNT
+hls://http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,ATRESERIES HD
+hls://http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NEOX
+hls://http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
+#EXTINF:-1,ADN 40
+hls://http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZ CINEMA
+hls://https://latamonly-lh.akamaihd.net/i/azcinema_1@571259/master.m3u8
+#EXTINF:-1,PCTV PANICO
+hls://https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+#EXTINF:-1,GOLTV EN TVC DDEPORTES
+hls://https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
+#EXTINF:-1,CINEMA PLATINO
+hls://https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+#EXTINF:-1,CINE MEXICANO
+hls://https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+#EXTINF:-1,MIS PELICULAS TV
+hls://https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
+#EXTINF:-1,PASIONES TV
+hls://https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
+#EXTINF:-1,AZ CORAZON
+hls://https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
+#EXTINF:-1,AZ CLIC TV
+hls://https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
+#EXTINF:-1,AZ MUNDO
+hls://https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
+#EXTINF:-1,CANAL ONCE MEXICO
+hls://https://latamonly-lh.akamaihd.net/i/oncetv_1@574620/master.m3u8
+#EXTINF:-1,CANAL 22 MEXICO
+hls://https://latamonly-lh.akamaihd.net/i/canal22_1@576296/master.m3u8
+#EXTINF:-1,DW
+hls://https://latamonly-lh.akamaihd.net/i/dw_1@576290/master.m3u8
+#EXTINF:-1,STAR TVE HD
+hls://https://latamonly-lh.akamaihd.net/i/startvehd_1@578071/master.m3u8
+#EXTINF:-1,PINGUINITO TV chile
+hls://http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w2097866142.m3u8
+#EXTINF:-1,CANAL LA RED chile
+hls://http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
+#EXTINF:-1,NEXTV CANAL 21 panama
+hls://http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1,OROMAR TV Ecuador
+hls://http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,TC MI CANAL Ecuador
+hls://http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,TEC TV Argentina
+hls://http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TELESUR
+hls://http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+hls://http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,RT EN ESPAÑOL
+hls://https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1,PX SPORTS
+hls://https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
+#EXTINF:-1,FIX & FOXI
+hls://https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
+#EXTINF:-1,AYM SPORTS mx
+hls://https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
+#EXTINF:-1,BAND NEWS
+hls://https://latamonly-lh.akamaihd.net/i/bandint_1@314008/master.m3u8
+#EXTINF:-1,MULTIPREMIER
+hls://https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+#EXTINF:-1,13 MAX HD Ar
+hls://http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:-1,NIUMEDIA Ch
+http://bit.ly/2CNNlN6
+#EXTINF:-1,CANAL VTV Ur
+http://bit.ly/2yzvqG0
+#EXTINF:-1,ATB DIGITAL Bo
+http://bit.ly/2Fxl3Ed
+#EXTINF:-1,RED PAT CANALBo
+hls://http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
+#EXTINF:-1,TDTV Hond
+hls://http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,CABLENOTICIAS col
+http://bit.ly/2CMdf3B
+#EXTINF:-1,CALI TV Col
+http://bit.ly/2qrJVcS
+#EXTINF:-1,ANTENA 3 Es
+hls://http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1,LA SEXTA Es
+http://bit.ly/2EcRZQZ
+#EXTINF:-1,CANAL MALAGA Es 
+http://bit.ly/2AyTgiM
+#EXTINF:-1,CANAL DE FRANCIA
+hls://http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1,RT FRANCIA
+hls://http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+#EXTINF:-1,INDIES LIVE Fr
+hls://http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,ANIMAUX Fr
+hls://http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,RAI PREMIUM It
+hls://http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,RAIS SCUOLA It
+hls://http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,RAI MOVIE It
+hls://http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,CANAL ONCE Mx
+http://bit.ly/2CG3ALh
+#EXTINF:-1,LAS ESTRELLAS Mx
+hls://http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,COS panama
+hls://http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,TELEFUTBOL Pa
+hls://http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,TV PERU
+http://bit.ly/2EeP4au
+#EXTINF:-1,TV PERU 7.3
+http://bit.ly/2CHy4fM
+#EXTINF:-1,TV PERU HD
+http://bit.ly/2Ed9LDt
+#EXTINF:-1,FRANCE 24
+http://bit.ly/2DpgXNe
+#EXTINF:-1,HISPAN TV
+http://bit.ly/2CDowiN
+#EXTINF:-1,RAI NEWS 24 Itali
+http://bit.ly/2EaVNSs
